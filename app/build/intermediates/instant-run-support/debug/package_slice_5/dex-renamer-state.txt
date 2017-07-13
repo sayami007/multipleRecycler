@@ -1,0 +1,4 @@
+#Thu Jul 13 11:45:24 NPT 2017
+base.0=/Users/Bibesh/3C_Android/DesignDevelop/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
+renamed.0=classes.dex
+file.0=/Users/Bibesh/3C_Android/DesignDevelop/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex

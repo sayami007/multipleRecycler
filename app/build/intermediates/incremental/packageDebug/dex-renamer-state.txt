@@ -1,0 +1,7 @@
+#Thu Jul 13 11:56:49 NPT 2017
+base.0=/Users/Bibesh/3C_Android/DesignDevelop/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eaf2fded7c11f51e5fd990ca2bbc650e68a0d698
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Bibesh/3C_Android/DesignDevelop/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c6f646228c80ecc24b57844353aeb56039187935/classes.dex
+base.1=/Users/Bibesh/3C_Android/DesignDevelop/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c6f646228c80ecc24b57844353aeb56039187935
+file.0=/Users/Bibesh/3C_Android/DesignDevelop/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eaf2fded7c11f51e5fd990ca2bbc650e68a0d698/classes.dex
